@@ -17,6 +17,5 @@ Graphs are plotted for training and validation accuracy and loss to evaluate the
 A confusion matrix and classification report are generated to assess the model’s performance on the test set.
 ## 5. Hyperparameter Optimization
 The model's performance is optimized by experimenting with hyperparameters like the number of layers, number of neurons, dropout rate, and optimizer choice.
-Techniques like GridSearch or manual tuning can be used to find the best configuration.
 ## Conclusion
 This project aims to build an accurate fish species classification model while preventing overfitting through proper preprocessing, model architecture, and hyperparameter tuning. The code and analysis provide a solid foundation for improving model performance. To take a deep look in the project you may check out my Kaggle notebook:<a href="https://www.kaggle.com/code/belizyazici/deeplearning-fishdataset/notebook" target="_blank" rel="noreferrer" style="color: #8e44ad;"> Deep Learning Fish Dataset </a>
