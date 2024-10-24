@@ -1,4 +1,4 @@
-# Fish Dataset Classification 
+# Fish Species Classification 
 This project aims to classify fish species using the "A Large Scale Fish Dataset" from Kaggle. The classification is carried out using an Artificial Neural Network (ANN) architecture. Below is a summary of the project steps.
 
 ## 1. Data Preparation
